@@ -37,3 +37,5 @@ end
 crypto_scrapper.each do |price|
   puts price
 end
+
+puts "coucou #{crypto_scrapper[1]} les cocos"
